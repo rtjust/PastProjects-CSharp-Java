@@ -1,0 +1,81 @@
+***Pay Calculation***
+Pay Date: 12/12/2010
+Employee Name: Rob Just
+Pay Rate: 40.0
+Regular Hours: 37.5
+Overtime Hours: 2.0
+Regular Pay: $1500.0
+Overtime Pay: $120.0
+Total Pay: $1620.0
+***Pay Calculation***
+Pay Date: 12/12/2010
+Employee Name: Rob Just
+Pay Rate: 400.0
+Regular Hours: 37.5
+Overtime Hours: 2.0
+Regular Pay: $15000.0
+Overtime Pay: $1200.0
+Total Pay: $16200.0
+***Pay Calculation***
+Pay Date: 12/12/2010
+Employee Name: Rob Just
+Pay Rate: 400.0
+Regular Hours: 30.0
+Overtime Hours: 2.0
+Regular Pay: $12000.0
+Overtime Pay: $1200.0
+Total Pay: $13200.0
+***Pay Calculation***
+Pay Date: 12/12/2010
+Employee Name: Rob Just
+Pay Rate: 400.0
+Regular Hours: 30.0
+Overtime Hours: 2.0
+Regular Pay: $12000.0
+Overtime Pay: $1200.0
+Total Pay: $13200.0
+***Pay Calculation***
+Pay Date: 12/12/2010
+Employee Name: Rob Just
+Pay Rate: 400.0
+Regular Hours: 30.0
+Overtime Hours: 2.0
+Regular Pay: $12000.0
+Overtime Pay: $1200.0
+Total Pay: $13200.0
+***Pay Calculation***
+Pay Date: 12/12/12
+Employee Name: Rob Just
+Pay Rate: 21.0
+Regular Hours: 41.0
+Overtime Hours: 2.0
+Regular Pay: $861.0
+Overtime Pay: $63.0
+Total Pay: $924.0
+***Pay Calculation***
+Pay Date: 12/12/12
+Employee Name: Rob Just
+Pay Rate: 21.0
+Regular Hours: 41.0
+Overtime Hours: 2.0
+Regular Pay: $861.0
+Overtime Pay: $63.0
+Total Pay: $924.0
+***Pay Calculation***
+Pay Date: 12/12/12
+Employee Name: Rob Just
+Pay Rate: 21.0
+Regular Hours: 40.0
+Overtime Hours: 2.0
+Regular Pay: $840.0
+Overtime Pay: $63.0
+Total Pay: $903.0
+***Pay Calculation***
+Pay Date: 12/12/12
+Employee Name: Rob Just
+Pay Rate: 20.0
+Regular Hours: 40.0
+Overtime Hours: 1.0
+Regular Pay: $800.0
+Overtime Pay: $30.0
+Total Pay: $830.0

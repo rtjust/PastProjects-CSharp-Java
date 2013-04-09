@@ -1,0 +1,12 @@
+Animal dog
+Animal cat
+Furniture table
+Furniture chair
+Animal elephant
+Vehicle car
+Vehicle truck
+Food sandwhich
+Food carrot
+Plant tree
+Plant flower
+Animal bird
